@@ -1,7 +1,9 @@
 COMANDOS BÁSICOS DE GIT
 Lección 7 – Curso Front-End SENCE
 
-A continuación dejo las definiciones y ejemplos de los comandos solicitados. Están explicados de manera sencilla para que cualquier compañero pueda entenderlos sin enredarse. 😊
+A continuación dejo las definiciones y ejemplos de los comandos solicitados. Están explicados de manera sencilla para que cualquier compañero pueda entenderlos sin enredarse. 
+Dejo capturas de los comandos aplicados.
+😊
 
 
 ------------------------------------------------------------
